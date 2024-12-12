@@ -1,6 +1,6 @@
 # Assignment2
 # MNIST-baselines
-This repository trained and tested a simple CNN model on the * MNIST* dataset 
+This repository trained and tested a simple CNN model on the *MNIST* dataset 
 and proposed our own method to improve the performance or reduce the model size.
 Additionally, it contains various state-of-the-art (SOTA) models for comparison.
 
