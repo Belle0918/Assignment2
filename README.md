@@ -32,8 +32,8 @@ Available at [https://drive.google.com/file/d/1gv91n1BiSBA09gAGviXHNkNfGX0clZo7/
 ![DOnet confusion matrix.png](plot/reademePlots/img_9.png)
 
 ### DDOnet
-![DDOnet loss and accuracy.png](plot/reademePlots/img_11.png)
-![DDOnet confusion matrix.png](plot/reademePlots/img_12.png)
+![DDOnet loss and accuracy.png](plot/reademePlots/img_10.png)
+![DDOnet confusion matrix.png](plot/reademePlots/img_11.png)
 
 ### Pruning-DDOnet
 ![Pruning-DDOnet loss and accuracy.png](plot/reademePlots/img_6.png)
