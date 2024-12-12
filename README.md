@@ -19,7 +19,7 @@ Additionally, it contains various state-of-the-art (SOTA) models for comparison.
 ### Test a SOTA model
 `python3 main.py --method Model_Name --test`
 ### Trained models
-Available at [https://drive.google.com/file/d/1gv91n1BiSBA09gAGviXHNkNfGX0clZo7/view?usp=share_link](https://drive.google.com/file/d/1gv91n1BiSBA09gAGviXHNkNfGX0clZo7/view?usp=share_link)
+Available at [https://drive.google.com/drive/folders/1wQsRPMfqlsgEfL9VvEONtKhX-CMyKW4q?usp=share_link](https://drive.google.com/drive/folders/1wQsRPMfqlsgEfL9VvEONtKhX-CMyKW4q?usp=share_link)
 
 ### baseline
 ![baseline loss and accuracy.png](plot/reademePlots/img_2.png)
